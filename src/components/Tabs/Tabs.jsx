@@ -1,7 +1,7 @@
 // @ts-nocheck
 import React, * as react from "react";
 import PropTypes from "prop-types";
-import Tab from "./Tab";
+import Tab from '../Tab';
 
 class Tabs extends react.Component {
   static propTypes = {
