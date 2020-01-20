@@ -1,1 +1,1 @@
-###Following this post : ```https://alligator.io/react/tabs-component/```
+##Following this post : ```https://alligator.io/react/tabs-component/```
